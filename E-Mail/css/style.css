@@ -1,0 +1,14 @@
+.container{
+  margin: 100px auto;
+}
+
+.flex{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+h2{
+  margin-top: 50px;
+  text-align: center;
+}
