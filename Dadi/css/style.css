@@ -1,0 +1,15 @@
+.container{
+  margin-top: 60px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1,h2{
+  margin-bottom: 40px;
+}
+
+ul{
+  list-style: none;
+}
+
